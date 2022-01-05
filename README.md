@@ -35,3 +35,9 @@ https://www.npmjs.com/package/eslint
 ## A tool to loads environment variables 
 
 https://www.npmjs.com/package/dotenv
+
+<hr>
+
+## Vídeo Youtube
+
+https://www.youtube.com/watch?v=r2yzlFz7Ua4
